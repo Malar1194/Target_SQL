@@ -23,5 +23,6 @@
 * orders.csv
 * products.csv
 ## Schema ❄
+![WhatsApp Image 2024-10-09 at 15 12 16](https://github.com/user-attachments/assets/c62ed900-608c-4f96-a3d4-f9b1fe858618)
 
   
